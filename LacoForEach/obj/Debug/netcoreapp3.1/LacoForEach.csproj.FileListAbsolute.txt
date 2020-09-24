@@ -1,0 +1,12 @@
+C:\ProgramasCSharp\ConceitoDeLacoForEach\LacoForEach\LacoForEach\bin\Debug\netcoreapp3.1\LacoForEach.exe
+C:\ProgramasCSharp\ConceitoDeLacoForEach\LacoForEach\LacoForEach\bin\Debug\netcoreapp3.1\LacoForEach.deps.json
+C:\ProgramasCSharp\ConceitoDeLacoForEach\LacoForEach\LacoForEach\bin\Debug\netcoreapp3.1\LacoForEach.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDeLacoForEach\LacoForEach\LacoForEach\bin\Debug\netcoreapp3.1\LacoForEach.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDeLacoForEach\LacoForEach\LacoForEach\bin\Debug\netcoreapp3.1\LacoForEach.dll
+C:\ProgramasCSharp\ConceitoDeLacoForEach\LacoForEach\LacoForEach\bin\Debug\netcoreapp3.1\LacoForEach.pdb
+C:\ProgramasCSharp\ConceitoDeLacoForEach\LacoForEach\LacoForEach\obj\Debug\netcoreapp3.1\LacoForEach.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDeLacoForEach\LacoForEach\LacoForEach\obj\Debug\netcoreapp3.1\LacoForEach.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDeLacoForEach\LacoForEach\LacoForEach\obj\Debug\netcoreapp3.1\LacoForEach.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDeLacoForEach\LacoForEach\LacoForEach\obj\Debug\netcoreapp3.1\LacoForEach.dll
+C:\ProgramasCSharp\ConceitoDeLacoForEach\LacoForEach\LacoForEach\obj\Debug\netcoreapp3.1\LacoForEach.pdb
+C:\ProgramasCSharp\ConceitoDeLacoForEach\LacoForEach\LacoForEach\obj\Debug\netcoreapp3.1\LacoForEach.genruntimeconfig.cache
