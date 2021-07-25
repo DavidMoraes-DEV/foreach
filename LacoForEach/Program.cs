@@ -8,7 +8,7 @@ namespace LacoForEach
         {
             /*
              O Laço "foreach" é uma sintaxe opicional e simplificada do
-            "for" padrão para percorrer coleções.
+            "for" padrão para percorrer coleções(Vetor, Listas mMatriz entre outros).
             Obs. É muito utilizado!!!
             */
 

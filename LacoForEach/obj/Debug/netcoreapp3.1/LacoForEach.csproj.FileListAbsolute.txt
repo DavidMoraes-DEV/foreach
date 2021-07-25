@@ -10,3 +10,16 @@ C:\ProgramasCSharp\ConceitoDeLacoForEach\LacoForEach\LacoForEach\obj\Debug\netco
 C:\ProgramasCSharp\ConceitoDeLacoForEach\LacoForEach\LacoForEach\obj\Debug\netcoreapp3.1\LacoForEach.dll
 C:\ProgramasCSharp\ConceitoDeLacoForEach\LacoForEach\LacoForEach\obj\Debug\netcoreapp3.1\LacoForEach.pdb
 C:\ProgramasCSharp\ConceitoDeLacoForEach\LacoForEach\LacoForEach\obj\Debug\netcoreapp3.1\LacoForEach.genruntimeconfig.cache
+C:\Users\David\Source\Repos\DavidMoraes-DEV\foreach\LacoForEach\bin\Debug\netcoreapp3.1\LacoForEach.exe
+C:\Users\David\Source\Repos\DavidMoraes-DEV\foreach\LacoForEach\bin\Debug\netcoreapp3.1\LacoForEach.deps.json
+C:\Users\David\Source\Repos\DavidMoraes-DEV\foreach\LacoForEach\bin\Debug\netcoreapp3.1\LacoForEach.runtimeconfig.json
+C:\Users\David\Source\Repos\DavidMoraes-DEV\foreach\LacoForEach\bin\Debug\netcoreapp3.1\LacoForEach.runtimeconfig.dev.json
+C:\Users\David\Source\Repos\DavidMoraes-DEV\foreach\LacoForEach\bin\Debug\netcoreapp3.1\LacoForEach.dll
+C:\Users\David\Source\Repos\DavidMoraes-DEV\foreach\LacoForEach\bin\Debug\netcoreapp3.1\LacoForEach.pdb
+C:\Users\David\Source\Repos\DavidMoraes-DEV\foreach\LacoForEach\obj\Debug\netcoreapp3.1\LacoForEach.csprojAssemblyReference.cache
+C:\Users\David\Source\Repos\DavidMoraes-DEV\foreach\LacoForEach\obj\Debug\netcoreapp3.1\LacoForEach.AssemblyInfoInputs.cache
+C:\Users\David\Source\Repos\DavidMoraes-DEV\foreach\LacoForEach\obj\Debug\netcoreapp3.1\LacoForEach.AssemblyInfo.cs
+C:\Users\David\Source\Repos\DavidMoraes-DEV\foreach\LacoForEach\obj\Debug\netcoreapp3.1\LacoForEach.csproj.CoreCompileInputs.cache
+C:\Users\David\Source\Repos\DavidMoraes-DEV\foreach\LacoForEach\obj\Debug\netcoreapp3.1\LacoForEach.dll
+C:\Users\David\Source\Repos\DavidMoraes-DEV\foreach\LacoForEach\obj\Debug\netcoreapp3.1\LacoForEach.pdb
+C:\Users\David\Source\Repos\DavidMoraes-DEV\foreach\LacoForEach\obj\Debug\netcoreapp3.1\LacoForEach.genruntimeconfig.cache
